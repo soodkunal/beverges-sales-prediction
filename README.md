@@ -73,15 +73,15 @@ We explored various machine learning models to achieve the goals and selected th
 ### Running the Notebook  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/soodkunal/beverges-sales-prediction
+   git clone https://github.com/soodkunal/beverges-sales-prediction.git
    ```  
 2. Navigate to the project directory:  
    ```bash
-   cd beverage-sales-analysis
+   cd beverges-sales-prediction
    ```  
 3. Open the Jupyter notebook:  
    ```bash
-   jupyter notebook
+   beverage-sales-prediction.ipynb
    ```  
 
 ---
