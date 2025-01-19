@@ -1,5 +1,3 @@
----
-
 # 📊 Beverage Sales Analysis
 
 Analyze regional preferences, seasonal trends, and pricing strategies in the beverage industry using a versatile dataset. This repository provides tools and insights for exploring Business-to-Business (B2B) and Business-to-Consumer (B2C) sales patterns, customer segmentation, and pricing dynamics.
